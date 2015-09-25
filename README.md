@@ -1,6 +1,8 @@
 # ArduinoGalilei
 Execution of Galilei experiments on the fall of rigid bodies.
 
+![experiment setup](/pics/incline.jpg)
+
  * five LDR sensors to measure positions as well as velocity (the latter in two distinct points)
  * output through serial monitor
  * calibration of LDR sensors before each test campaign
@@ -9,3 +11,6 @@ Execution of Galilei experiments on the fall of rigid bodies.
  * transistor-based relais circuit to govern the coil
 
 Complete final product is _04_arduino_galilei_experiment
+
+![experiment setup](/pics/monitor.jpg)
+
