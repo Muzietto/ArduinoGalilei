@@ -13,4 +13,3 @@ Execution of Galilei experiments on the fall of rigid bodies.
 Complete final product is _04_arduino_galilei_experiment
 
 ![experiment setup](/pics/monitor.jpg)
-
